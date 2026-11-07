@@ -4,7 +4,7 @@
 ## 📌 Experience
 - 경희대학교 컴퓨터공학과 학술동아리 **DASOM** <sub>2023.03 ~ ing</sub>
 - 경희대 세모톤 <sub>2026</sub><br>
-  <sub>그룹 기반 수면·알람 서비스</sub>
+  <sub>**SleepMate**: 그룹 기반 수면·알람 서비스</sub>
 - GBSA x AWS AI 전문가 양성과정 <sub>2026.07 ~ 2026.08</sub><br>
   <sub>**Re:Add**: 스포 없는 독서 보조 서비스 — 앞선 줄거리 요약·인물 관계도·챗봇</sub>
 - KT&G장학재단 AI 상상그라운드 1기 <sub>2026</sub><br>

@@ -10,13 +10,13 @@
 ## 📌 Experience
 - 경희대학교 컴퓨터공학과 재학 <sub>2023.03 ~ ing</sub>
 - 경희대학교 컴퓨터공학과 학술동아리 **DASOM** <sub>2023.03 ~ ing</sub>
-- [**Re:Add**](https://github.com/yemoyang9-a11y/GBSA_AWS_Readd) · GBSA x AWS AI 전문가 양성과정 <sub>2026</sub><br>
-  <sub>읽은 데까지만 아는 독서 보조 사이드바 — 스포일러 없는 리캡·인물 관계도·챗봇 · [Demo](https://ssabi-d4c.pages.dev)</sub>
-- [**Retriever 리트리버**](https://github.com/rlashyun/sangsang) · KT&G장학재단 AI 상상그라운드 1기 <sub>2026</sub><br>
+- GBSA x AWS AI 전문가 양성과정 <sub>2026</sub><br>
+  <sub>읽은 데까지만 아는 독서 보조 사이드바 — 스포일러 없는 리캡·인물 관계도·챗봇 · </sub>
+- KT&G장학재단 AI 상상그라운드 1기 <sub>2026</sub><br>
   <sub>지도 기반으로 잃어버린 물건을 찾아주는 분실물 탐색 서비스</sub>
-- [**BOGLE 보글**](https://github.com/taektegi/bogle_Yeahsso) · 2026 경희대 예술적인 소프트웨어 <sub>2026</sub><br>
+-  2026 경희대 예술적인 소프트웨어 <sub>2026</sub><br>
   <sub>그림·사진 속 상상을 AI 캐릭터 친구로 만드는 아이패드 앱</sub>
-- [**세모톤 (Semothon)**](https://github.com/ssuryeon/semothon_team7_frontend) 해커톤 Team 7 <sub>2026</sub><br>
+- 해커톤 Team 7 <sub>2026</sub><br>
   <sub>그룹 기반 수면·알람 서비스 프론트엔드</sub>
 
 

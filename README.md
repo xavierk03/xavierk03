@@ -20,7 +20,6 @@
   <sub>그룹 기반 수면·알람 서비스 프론트엔드</sub>
 
 
-
 ## 🏆 Awards
 - GBSA x AWS AI 전문가 양성과정 **대상**<br>
   <sub>프로젝트: Re:Add · 2026.08</sub>
@@ -36,39 +35,8 @@
 
 ---
 
-## 🌱 Tech Stack
-
-#### Language
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-</p>
-
-#### Frontend & Backend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-</p>
-
-#### Database & DevOps
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
-## 📊 GitHub Stats
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=xavierk03&show_icons=true&hide_border=true&include_all_commits=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavierk03&layout=compact&hide_border=true"/>
-</p>
-
 ## 📫 Contact
 <p>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:kwon14374@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/xavierk03"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>

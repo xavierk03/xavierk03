@@ -2,7 +2,7 @@
 - 🎓 **경희대학교** 컴퓨터공학과 재학중 <sub>2023.03 ~ ing</sub>
 
 ## 📌 Experience
-- 경희대학교 컴퓨터공학과 학술동아리 **DASOM** <sub>2023.03 ~ ing</sub>
+- 경희대 컴퓨터공학부 학술동아리 **DASOM** <sub>2023.03 ~ ing</sub>
 - 경희대 세모톤 <sub>2026</sub><br>
   <sub>**SleepMate**: 그룹 기반 수면·알람 서비스</sub>
 - GBSA x AWS AI 전문가 양성과정 <sub>2026.07 ~ 2026.08</sub><br>

@@ -1,8 +1,7 @@
-👋 Introduction
-🎓 Undergraduate of Computer Science and Engineering at Kyung Hee University2023.03 ~ ing
+## 👋 Introduction
+- 🎓 Undergraduate of Computer Science and Engineering at **Kyung Hee University** <sub>2023.03 ~ ing</sub>
 
 ## 📌 Experience
-- 경희대학교 컴퓨터공학과 재학 <sub>2023.03 ~ ing</sub>
 - 경희대학교 컴퓨터공학과 학술동아리 **DASOM** <sub>2023.03 ~ ing</sub>
 - GBSA x AWS AI 전문가 양성과정 <sub>2026</sub><br>
   <sub>읽은 데까지만 아는 독서 보조 사이드바 — 스포일러 없는 리캡·인물 관계도·챗봇 · </sub>

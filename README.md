@@ -1,6 +1,5 @@
-## 🙋 About
-- 경희대학교 **컴퓨터공학과**에 재학 중인 학생 개발자 권희준입니다.
-- 팀 프로젝트와 대회, 동아리 활동을 통해 직접 만들어 보며 배우고 있어요.
+👋 Introduction
+🎓 Undergraduate of Computer Science and Engineering at Kyung Hee University2023.03 ~ ing
 
 ## 📌 Experience
 - 경희대학교 컴퓨터공학과 재학 <sub>2023.03 ~ ing</sub>

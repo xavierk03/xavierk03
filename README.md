@@ -22,9 +22,6 @@
 - KT&G장학재단 AI 상상그라운드 1기 **수상 예정**<br>
   <sub>프로젝트: Retriever · 2026.12</sub>
 
-## 📜 Certifications
-- **AWS Certified Cloud Practitioner (CLF-C02)** 취득 예정 <sub>2026.11</sub>
-
 ---
 
 ## 📫 Contact

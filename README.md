@@ -4,21 +4,19 @@
 ## 📌 Experience
 - 경희대 컴퓨터공학부 학술동아리 **DASOM** <sub>2023.03 ~ ing</sub>
 - 경희대 세모톤 <sub>2026</sub><br>
-  <sub>**SleepMate**: 그룹 기반 수면·알람 서비스</sub>
 - AWS 기반 AI 개발자 양성과정 (경기도경제과학진흥원) <sub>2026.07 ~ 08</sub><br>
-  <sub>**Re:Add**: 스포 없는 독서 보조 서비스 — 앞선 줄거리 요약·인물 관계도·챗봇</sub>
 - KT&G장학재단 AI 상상그라운드 1기 <sub>2026</sub><br>
-  <sub>**Retriever**: 지도 기반으로 잃어버린 물건을 찾아주는 분실물 탐색 서비스</sub>
 - 경희대 예술적인 소프트웨어 <sub>2026</sub><br>
-  <sub>**BOGLE**: 아이의 상상 속 캐릭터를 앱 속에 현실화해주는 앱 서비스</sub>
 - 모두의 창업 2차 1라운드 통과 <sub>2026</sub><br>
-  <sub>**Re:Add** 사업화</sub>
+- SW 중심대학 연합 AI·SW페스티벌 <sub>20226</sub><br>
 
 ## 🏆 Awards
 - GBSA x AWS AI 전문가 양성과정 **대상**<br>
   <sub>프로젝트: Re:Add · 2026.08</sub>
 - 2026 경희대 예술적인 소프트웨어 **우수상**<br>
   <sub>프로젝트: BOGLE · 2026.11</sub>
+- 2026 SW 중심대학 연합 AI·SW페스티벌 **인기상**<br>
+  <sub>프로젝트: Retriever · 2026.11
 - KT&G장학재단 AI 상상그라운드 1기 **수상 예정**<br>
   <sub>프로젝트: Retriever · 2026.12</sub>
 

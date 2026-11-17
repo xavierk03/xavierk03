@@ -8,7 +8,7 @@
 - KT&G장학재단 AI 상상그라운드 1기 <sub>2026</sub><br>
 - 경희대 예술적인 소프트웨어 <sub>2026</sub><br>
 - 모두의 창업 2차 1라운드 통과 <sub>2026</sub><br>
-- SW중심대학 연합 AI·SW페스티벌 <sub>20226</sub><br>
+- SW중심대학 연합 AI·SW페스티벌 <sub>2026</sub><br>
 
 ## 🏆 Awards
 - GBSA x AWS AI 전문가 양성과정 **대상**<br>

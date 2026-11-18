@@ -5,7 +5,7 @@
 - 경희대 컴퓨터공학부 학술동아리 **DASOM** <sub>2023.03 ~ ing</sub>
 - 경희대 세모톤 <sub>2026</sub><br>
 - AWS 기반 AI 개발자 양성과정 (경기도경제과학진흥원) <sub>2026.07 ~ 08</sub><br>
-  ML·DL·LLM·AI 에이전트, AWS 공식 교육 5과정 이수
+  <sub>ML·DL·LLM·AI 에이전트, AWS 공식 교육 5과정 이수</sub>
 - KT&G장학재단 AI 상상그라운드 1기 <sub>2026</sub><br>
 - 경희대 예술적인 소프트웨어 <sub>2026</sub><br>
 - 모두의 창업 2차 1라운드 통과 <sub>2026</sub><br>
